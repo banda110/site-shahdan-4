@@ -116,7 +116,7 @@
     },
     "floatingMemories": {
       "id": "floating-memories",
-      "enabled": true,
+      "enabled": false,
       "title": "Floating Moments",
       "subtitle": "Memories",
       "description": "A collection of beautiful memories suspended in time.",
@@ -127,7 +127,7 @@
     },
     "marquee": {
       "id": "marquee",
-      "enabled": true,
+      "enabled": false,
       "title": "Infinite Memories",
       "subtitle": "Gallery",
       "description": "Moments that never end.",
@@ -138,7 +138,7 @@
     },
     "stackCards": {
       "id": "stack-cards",
-      "enabled": true,
+      "enabled": false,
       "title": "Stacked Memories",
       "subtitle": "Story",
       "description": "Every memory reveals the next chapter.",
@@ -149,7 +149,7 @@
     },
     "timeline": {
       "id": "timeline",
-      "enabled": true,
+      "enabled": false,
       "title": "Journey Through Memories",
       "subtitle": "Timeline",
       "description": "Every moment has its place in our story.",
@@ -171,7 +171,7 @@
     },
     "flipCards": {
       "id": "flip-cards",
-      "enabled": true,
+      "enabled": false,
       "title": "3D Flip Cards",
       "subtitle": "Moments",
       "description": "Turn the card to reveal the memory.",
@@ -182,7 +182,7 @@
     },
     "loveQuotes": {
       "id": "love-quotes",
-      "enabled": true,
+      "enabled": false,
       "title": "Love Quotes",
       "subtitle": "Words",
       "description": "Words from the heart.",
@@ -226,7 +226,7 @@
     },
     "parallaxLayers": {
       "id": "parallax-layers",
-      "enabled": true,
+      "enabled": false,
       "title": "Parallax Layers",
       "subtitle": "Depth",
       "description": "Memories with depth.",
@@ -259,7 +259,7 @@
     },
     "beforeAfter": {
       "id": "before-after",
-      "enabled": true,
+      "enabled": false,
       "title": "Before & After",
       "subtitle": "Then & Now",
       "description": "How our journey has transformed us.",
@@ -281,7 +281,7 @@
     },
     "carousel": {
       "id": "carousel",
-      "enabled": true,
+      "enabled": false,
       "title": "Memory Carousel",
       "subtitle": "Carousel",
       "description": "Drag through the memories.",
@@ -292,7 +292,7 @@
     },
     "spotlight": {
       "id": "spotlight",
-      "enabled": true,
+      "enabled": false,
       "title": "Spotlight Gallery",
       "subtitle": "Spotlight",
       "description": "Move your cursor to reveal the light.",
@@ -303,7 +303,7 @@
     },
     "bentoGrid": {
       "id": "bento-grid",
-      "enabled": true,
+      "enabled": false,
       "title": "Bento Grid",
       "subtitle": "Bento",
       "description": "Beautifully arranged memories.",
@@ -336,7 +336,7 @@
     },
     "verticalMarquee": {
       "id": "vertical-marquee",
-      "enabled": true,
+      "enabled": false,
       "title": "Vertical Flow",
       "subtitle": "Flow",
       "description": "Memories flowing endlessly.",
@@ -347,7 +347,7 @@
     },
     "loveNotes": {
       "id": "love-notes",
-      "enabled": true,
+      "enabled": false,
       "title": "Floating Love Notes",
       "subtitle": "Notes",
       "description": "Little messages of love floating by.",
@@ -358,7 +358,7 @@
     },
     "heartbeat": {
       "id": "heartbeat",
-      "enabled": true,
+      "enabled": false,
       "title": "Heartbeat Showcase",
       "subtitle": "Heartbeat",
       "description": "The rhythm of our love.",
@@ -369,7 +369,7 @@
     },
     "finalEnding": {
       "id": "final-ending",
-      "enabled": true,
+      "enabled": false,
       "title": "Final Cinematic Ending",
       "subtitle": "Ending",
       "description": "A grand finale to our story.",
