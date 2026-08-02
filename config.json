@@ -1,0 +1,45 @@
+{
+  "sitePassword": "4/8/2007",
+  "content": {
+    "siteTitle": "عيد ميلاد سعيد 🎂",
+    "siteSubtitle": "عيد ميلاد سعيد حبيبتي",
+    "loginButton": "ادخل لتشوف المفاجأة",
+    "heroTitle": "كل سنة وأنتِ<br/>أجمل حاجة في حياتي",
+    "heroDescription": "عيد ميلاد سعيد حبيبتي",
+    "heroButton": "ادخل لتشوف المفاجأة",
+    "endingTitle": "كل سنة وانتِ طيبة",
+    "endingDescription": "أتمنى لكِ سنة مليانة فرح ونجاح",
+    "endingFooter": "مع حبي دائماً"
+  },
+  "theme": {
+    "background": "#1c1018",
+    "backgroundSecondary": "#261820",
+    "accent": "#ffb3c1",
+    "accentSecondary": "#ff8fab",
+    "accentTertiary": "#ffd166",
+    "text": "#fff5f7",
+    "textMuted": "rgba(255,245,247,0.62)",
+    "glassBg": "rgba(255,179,193,0.08)",
+    "glassBorder": "rgba(255,179,193,0.25)",
+    "blur": 24,
+    "radius": 36,
+    "fontSize": 16,
+    "customCSS": "@import url('https://fonts.googleapis.com/css2?family=Lalezar:wght@400&family=Changa:wght@400;600&display=swap');\n:root{--font-sans:'Changa',sans-serif;--font-serif:'Lalezar',serif;}"
+  },
+  "sections": {
+    "marquee": {
+      "enabled": false
+    },
+    "vertical-marquee": {
+      "enabled": false
+    },
+    "statistics": {
+      "title": "أيام مع بعض"
+    }
+  },
+  "dashboardPassword": "love",
+  "github": {
+    "token": "",
+    "repo": "banda110/site-shahdan-4"
+  }
+}
