@@ -105,7 +105,7 @@
   "sections": {
     "hero": {
       "id": "hero",
-      "enabled": true,
+      "enabled": false,
       "title": "Every Memory Tells A Story",
       "subtitle": "A Story Worth Remembering",
       "description": "Some moments stay with us forever.",
@@ -369,7 +369,7 @@
     },
     "finalEnding": {
       "id": "final-ending",
-      "enabled": false,
+      "enabled": true,
       "title": "Final Cinematic Ending",
       "subtitle": "Ending",
       "description": "A grand finale to our story.",
