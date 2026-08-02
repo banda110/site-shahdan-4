@@ -204,7 +204,7 @@
     },
     "orbitGallery": {
       "id": "orbit-gallery",
-      "enabled": true,
+      "enabled": false,
       "title": "Orbit Gallery",
       "subtitle": "Orbit",
       "description": "Memories orbiting around us.",
@@ -215,7 +215,7 @@
     },
     "horizontalStory": {
       "id": "horizontal-story",
-      "enabled": true,
+      "enabled": false,
       "title": "A Horizontal Journey",
       "subtitle": "Story",
       "description": "Scroll sideways through our story.",
